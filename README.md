@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kristi from Mountbirch
 - 👀 I’m interested in growing our team of Software Developers  @ www.Mountbirch.com 
 - 🌱 (keywords: Java, JavaScript, TypeScript, Node.js, GraphQL, ElasticSearch)
-- 💞️ I’m looking to recruit a pragmatic idealist who believes in testing their code (Jest)
+- 💞️ I’m looking to recruit a pragmatic idealist who believes in testing their code
 - 📫 You can reach me @ kristi.kaur@mountbirch.com
 
 <!---
